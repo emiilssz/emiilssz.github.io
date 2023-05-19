@@ -265,7 +265,7 @@ h5{
     width: 600px;
     height: 500px;
 }
-H6{
+h6{
     font-family: sans-serif;
     font-size: 50px;
     color: var(--text-color);
